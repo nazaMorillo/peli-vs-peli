@@ -1,0 +1,1 @@
+var conexionbd = require('../lib/conexionbd');
